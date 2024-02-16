@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Retos bandit/Bandit level 0.md",
+                "file": "Retos bandit/Level 9 → Level 10.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Retos bandit/Bandit level 0.md",
+                "file": "Retos bandit/Level 9 → Level 10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Retos bandit/Bandit level 0.md",
+                "file": "Retos bandit/Level 9 → Level 10.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Retos bandit/Bandit level 0.md"
+                "file": "Retos bandit/Level 9 → Level 10.md"
               }
             }
           }
@@ -148,9 +148,19 @@
   },
   "active": "e9aa07ab30af248e",
   "lastOpenFiles": [
-    "Retos bandit/Plantilla.md",
-    "README.md",
+    "Retos bandit/Level 6 → Level 7.md",
+    "Retos bandit/Level 7 → Level 8.md",
+    "Retos bandit/Level 8 → Level 9.md",
+    "Retos bandit/Level 9 → Level 10.md",
     "Retos bandit/Bandit level 0.md",
+    "Retos bandit/Level 2 → Level 3.md",
+    "Retos bandit/Level 3 → Level 4.md",
+    "Retos bandit/Level 4 → Level 5.md",
+    "Retos bandit/Level 5 → Level 6.md",
+    "Retos bandit/Level 1 → Level 2.md",
+    "Retos bandit/Level 0 → Level 1.md",
+    "Plantilla.md",
+    "README.md",
     "Retos bandit"
   ]
 }
